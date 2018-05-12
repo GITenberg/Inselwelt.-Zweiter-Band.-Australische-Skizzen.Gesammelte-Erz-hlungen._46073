@@ -1,0 +1,36 @@
+_repo: Inselwelt.-Zweiter-Band.-Australische-Skizzen.Gesammelte-Erz-hlungen._46073
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46073-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gerstäcker, Friedrich
+    aliases:
+    - Gerstaecker, Frederick
+    - Gerstacker, Friedrich
+    - Gerstäcker, Friedrich Wilhelm Christian
+    birthdate: 1816
+    deathdate: 1872
+    gutenberg_agent_id: '8053'
+    url: http://www.gutenberg.org/2009/agents/8053
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
+description: ''
+gutenberg_issued: '2014-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46073'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pacific Area -- Fiction'
+- !lcsh 'Adventure stories, German'
+- !lcc 'PT'
+tableOfContents: 'Buschtreiben: John Mulligan. Die Flucht. Gentleman John. Die Känguruh-Insel
+  -- Bilder aus den Australischen Goldminen: John Newman. Im Australischen Busch.'
+title: 'Inselwelt. Zweiter Band. Australische Skizzen.
+
+  Gesammelte Erzählungen.'
+url: http://www.gutenberg.org/ebooks/46073
